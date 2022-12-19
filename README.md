@@ -8,5 +8,7 @@ And gives you the best performing model based on your performance priority and e
 
 Logistics Regression uses GridSearchCV to hypertune parameters.
 Parameters used:
+
 solver: ['newton-cg', 'lbfgs', 'liblinear', 'sag', 'saga']
+
 C: [10, 1.0, 0.1]
